@@ -12,4 +12,4 @@ Directory Structure:
 
 Disclaimer:
    This is a work in progress and as such is probably littered with errors. Please verify all details yourself. Suggestions for corrections gladly accepted. 
-   Or check out and push any changes.
+   Or check out and push any changes.# cetus2-klipper
